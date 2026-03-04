@@ -1,2 +1,6 @@
 # codigo_detectordeimagens_yolo
-Código desenvolvido via códigos open source, com o objetivo central para trabalho de conclusão de curso no IFPB Campus de Itaporanga. 
+
+Olho amigo - ferramenta de detecção de imagens com o objetivo de promover mobilidade urbana para pessoas com deficiência visual. 
+O projeto foi o resultado de uma otimização de recursos acessíveis na web, como código open source e bibliotecas python. A partir do código de Monteiro, R. G(2021) foi exequível modificá-lo para o objetivo do trabalho, um detector de objetos para pessoas com deficiência visual. A partir do código foi possível extrair informações do uso da rede neural em código, como por exemplo, o uso da biblioteca ultralytics para a permissão do uso da RNA. Somente com o código de Monteiro, R.G(2021), seria inviável atingir o objetivo do trabalho, portanto, foi necessário buscar ferramentas python para tradução da detecção da YOLO para áudio, obtendo como solução a biblioteca gTTS (Google-to-Speech).
+Fiz esse projeto como TCC para meu ensino médio integrado com o técnico em informática no IFPB - campus Itaporanga. Assim, como atualmente sou graduanda de engenharia de software, igualmente pelo IFPB, tenho como objetivo desenvolver uma interface mais responsiva, ampliar o acesso pra dispositivos móveis e tentar vincular algum aplicativo de mobilidade urbana, como maps ou waze, para promover a acessibilidade para todos.
+O principal foco vai ser a mobilidade pelo campus do IFPB-JP, e quem sabe futuramente se tornar um software de nível nacional ou mundial.
