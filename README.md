@@ -1,6 +1,8 @@
 # 👁️ Olho Amigo
 
-Detector de objetos com áudio para acessibilidade de pessoas com deficiência visual.
+Detector de objetos com áudio para acessibilidade de pessoas com deficiência visual desenvolvido como Trabalho de Conclusão de curso.
+
+📄 [TCC completo](docs/TCC_completo.docx)
 
 **TCC Técnico em Informática - IFPB (2024)**
 
